@@ -5,7 +5,7 @@
 * 在自己的branch上进行commit
 
 ## Install Environment
-* 使用`requirements.txt`安装： `pip install -r requirement.txt`
+* 使用`requirements.txt`安装： `pip install -r requirements.txt`
 
 ## Requirements
 * 一个**输入框**用于input，一个**按钮**
