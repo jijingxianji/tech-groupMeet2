@@ -5,7 +5,9 @@
 * 在自己的branch上进行commit
 
 ## Install Environment
-* `pip install Flask`
+``` sh
+pip install Flask
+```
 
 ## Requirements
 * 一个**输入框**用于input，一个**按钮**
@@ -13,7 +15,9 @@
 
 ## Hint
 * 需要import的一些内容
-  * `from flask import Flask, render_template, request, redirect, session, url_for`
+``` sh
+from flask import Flask, render_template, request, redirect, session, url_for
+```
 * Notion上的笔记和`Application-Portal-Test`的代码都可以参考！
 
 ## 周四检查！
